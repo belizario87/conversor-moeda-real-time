@@ -33,12 +33,11 @@ Para instalar o projeto, siga os passos abaixo:
 Para executar o projeto, utilize o comando abaixo:
 
 ```bash
-npm start
+node index.js
 ```
 ## Exemplo
-rodar o projeto
-![image](https://github.com/user-attachments/assets/f36c7a0b-a9a1-489b-a697-cdcc6db5628a)
 inserir os dados( dolar to real ) + retorno do valor convertido
+
 ![image](https://github.com/user-attachments/assets/bdea9da8-5e95-4890-88a7-6a2c05000a19)
 
 
